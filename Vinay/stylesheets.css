@@ -1,0 +1,49 @@
+body {
+    background-color: #FFF8DC;
+}
+
+.vinay1, .laxmi, .teja1 {
+    display: inline-block;
+    vertical-align: top; /* Keeps them aligned at the top */
+    margin: 20px; /* Equal spacing all around */
+}
+
+.Anusha{
+     text-align: center;
+    margin-top: 20px;
+    color: gold;
+}
+
+.nithin{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.icon{
+    text-align: center;
+    margin-top: 20px;
+}
+.icons{
+     text-align: center;
+    margin-top: 20px;
+
+}
+.Dayone, .Daytwo{
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px;
+    margin-right: 50px;
+}
+.daythree, .dayfour{
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px;
+    margin-right: 50px;
+}
+.dayfive, .daysix, .dayseven{
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px;
+    margin-right: 50px;
+
+}
